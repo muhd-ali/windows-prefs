@@ -28,6 +28,7 @@
         "defaults":
         {
             // Put settings here that you want to apply to all profiles.
+            "fontFace": "Fira Code",
         },
         "list":
         [
@@ -37,7 +38,6 @@
                 "name": "Windows PowerShell",
                 "commandline": "powershell.exe",
                 "hidden": false,
-                "fontFace": "Consolas",
                 "colorScheme": "PowerShellTom",
                 "useAcrylic": true,
                 "acrylicOpacity": 0.8
@@ -48,7 +48,6 @@
                 "name": "Command Prompt",
                 "commandline": "cmd.exe",
                 "hidden": false,
-                "fontFace": "Consolas",
                 "experimental.retroTerminalEffect": true,
                 "foreground": "#00FF00"
             },
@@ -61,7 +60,6 @@
                 "backgroundImageOpacity" : 0.1,
                 "colorScheme": "VibrantTom",
                 "useAcrylic": true,
-                "fontFace": "Fira Code",
                 "acrylicOpacity": 0.8
             },
             {
@@ -70,7 +68,6 @@
                 "name": "Ubuntu-18.04 🐳",
                 "source": "Windows.Terminal.Wsl",
                 "colorScheme": "UbuntuLegit",
-                "fontFace": "Cascadia Code",
                 "acrylicOpacity": 0.8,
                 "backgroundImage": "C:/Users/thoma/OneDrive/Pictures/Me/Thomas Maurer Logos 2016/WindowsTerminal/RobotwithBackground.jpg",
                 "useAcrylic": true,
@@ -82,7 +79,6 @@
                 "name": "Ubuntu-20.04 🐳",
                 "source": "Windows.Terminal.Wsl",
                 "colorScheme": "UbuntuLegit",
-                "fontFace": "Cascadia Code",
                 "acrylicOpacity": 0.8,
                 "backgroundImage": "C:/Users/thoma/OneDrive/Pictures/Me/Thomas Maurer Logos 2016/WindowsTerminal/RobotwithBackground.jpg",
                 "useAcrylic": true,
@@ -105,7 +101,6 @@
                 "commandline": "ssh thomas@tomazurevmssh.westeurope.cloudapp.azure.com",
                 "icon": "C:/Users/thoma/OneDrive/Pictures/Me/Thomas Maurer Logos 2016/WindowsTerminal/AzureVMIcon32.png",
                 "colorScheme": "UbuntuLegit",
-                "fontFace": "Cascadia Code",
                 "acrylicOpacity": 0.5,
                 "useAcrylic": true
             },
@@ -145,7 +140,6 @@
                 "backgroundImageOpacity" : 0.1,
                 "colorScheme": "VibrantTomLight",
                 "useAcrylic": true,
-                "fontFace": "Cascadia Code",
                 "acrylicOpacity": 0.9
             },
             {
